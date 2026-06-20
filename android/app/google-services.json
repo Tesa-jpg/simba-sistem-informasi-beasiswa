@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683781737950",
+    "project_id": "simbaapp-48e22",
+    "storage_bucket": "simbaapp-48e22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683781737950:android:c2754de4bbda31bc0a614f",
+        "android_client_info": {
+          "package_name": "com.example.simba_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683781737950-5494t564pku2af6p5galbvljs2810ccm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl-fMV63l-tW8jceIM6hDVZKSX2tPTPnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683781737950-5494t564pku2af6p5galbvljs2810ccm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+name: simba_app
+description: A new Flutter project
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '^3.9.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  firebase_auth: ^6.5.1
+  firebase_core: ^4.9.0
+  cloud_firestore: ^6.4.1
+  firebase_storage: ^13.4.1
+  image_picker: ^1.0.7
+  file_picker: ^10.1.9
+  url_launcher: ^6.2.5
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/fonts/
+    - assets/images/
+
+
+
+
+      
