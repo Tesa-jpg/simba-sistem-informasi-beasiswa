@@ -1,16 +1,25 @@
-# simba_app
+# SIMBA - Sistem Informasi dan Monitoring Beasiswa
 
-A new Flutter project.
+# 🚧 Status: Sedang Dikembangkan (In Progress)
 
-## Getting Started
+SIMBA adalah aplikasi yang membantu mahasiswa memantau status pengajuan dan informasi beasiswa secara digital, menggantikan proses manual yang kurang efisien. Proyek ini dikembangkan secara mandiri, mulai dari riset dan desain UI/UX hingga implementasi development.
 
-This project is a starting point for a Flutter application.
+# ✨ Fitur
+ Halaman mahasiswa (terintegrasi dengan Firebase)
+ Halaman admin/pengelola beasiswa (sedang dikembangkan)
+ Notifikasi status pengajuan beasiswa
+ Riwayat pengajuan beasiswa
 
-A few resources to get you started if this is your first Flutter project:
+Framework: Flutter
+Bahasa: Dart
+Backend & Database: Firebase
+Desain: Figma
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# 📌 Catatan Pengembangan
+Proyek ini dikerjakan sebagai bagian dari pengembangan diri di bidang mobile development. Modul mahasiswa sudah dapat diakses dan terhubung dengan Firebase, sementara modul admin masih dalam proses pengembangan lebih lanjut.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 👩‍💻 Dikembangkan oleh
+Tesa Nurhadiyanti
+Mahasiswa Rekayasa Perangkat Lunak
+LinkedIn: Tesa Nurhadiyanti
+Email: tesanurhadiyanti20@gmail.com
